@@ -1,0 +1,34 @@
+page-search {
+
+.search {
+   width: 100%;
+   height:100%;
+   background-color: #FFFFFF;
+}
+
+ion-content .card-box {
+	margin-top: 50px;
+}
+
+
+ion-content .header {
+	text-align: center;
+    font-family: Chango;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+ion-card .card-title {
+	color: #F08080;
+	font-size: 14px;
+	font-weight: 900;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.card-box-middle {
+	margin-top: 50px;
+	border-style: solid;
+}
+
+}

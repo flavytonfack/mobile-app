@@ -1,0 +1,66 @@
+page-heart {
+
+.heart {
+   width: 100%;
+   height:100%;
+   background-color: #FFFFFF;
+}
+
+.card-box {
+  margin-top: 50px;
+}
+
+ion-content .box {
+    background-color: #FFFFFF;
+    height: 100%;
+    border-color: transparent;
+    border-radius: 2%;
+}
+
+ion-content .header {
+    text-align: center;
+    font-family: Chango;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+ion-card-content .card-title a {
+	color: #666666;
+	font-size: 20px;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+ion-card-content .card-title a:hover {
+color: #666666;
+}
+
+ion-card-content p {
+	color: #000000 !important;
+	font-size: 14px !important;
+}
+
+ion-content .image-card img {
+   width: 100%;
+   height: 100%;
+}
+
+
+ion-content .emoticones button {
+	color: #F08080;
+}
+
+ion-card-content a {
+	text-decoration: none;
+	color: #F08080;
+}
+
+ion-card-content a:hover {
+	text-decoration: none;
+	color: #DBDCFF;
+}
+
+
+
+
+}

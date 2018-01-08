@@ -1,0 +1,66 @@
+page-person {
+
+.person {
+   width: 100%;
+   height:100%;
+   background-image: linear-gradient(-225deg, #dbdcff 50%, #FFE6FA 50%);
+}
+
+ion-content .box {
+    background-color: #FFFFFF;
+    height: 100%;
+    border-color: transparent;
+    border-radius: 2%;
+}
+
+ion-card .header {
+    text-align: center;
+    font-family: Chango;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+ion-content .form {
+  margin-top: 70px;
+}
+
+
+
+ion-content .textMsg a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+ion-card-content .LoginButton button {
+  background-color: #FFE6FA;
+  font-size: 14px;
+  color: #000000;
+}
+
+ion-card-content .LoginButton:hover button {
+  background-color: #DBDCFF !important;
+}
+
+
+ion-card-content .RegisterButton button {
+  background-color: #DBDCFF;
+  font-size: 14px;
+  color: #000000;
+}
+
+ion-card-content .RegisterButton:hover button {
+  background-color: #FFE6FA !important;
+}
+
+
+/* font-family: Alegreya Sans; font-family: Chango; */
+
+
+
+
+
+
+
+}
